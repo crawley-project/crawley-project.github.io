@@ -10,7 +10,7 @@ description:      'The Crawley project page'
 url:              http://project.crawley-cloud.com/
 baseurl:          
 commentsystem:    google
-disqus:           example
+disqus:           crawleyproject
 highlighter: pygments
 
 author:
