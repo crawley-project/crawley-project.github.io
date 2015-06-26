@@ -9,7 +9,7 @@ tagline:          'blog'
 description:      'The Crawley project page'
 url:              http://project.crawley-cloud.com/
 baseurl:          
-commentsystem:    google
+commentsystem:    disqus
 disqus:           crawleyproject
 highlighter: pygments
 
